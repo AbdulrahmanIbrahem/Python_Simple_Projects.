@@ -51,5 +51,5 @@ def adverture_game(username) :
 
 name = input('Enter Your Name ? ').strip().capitalize()
 
-print(adverture_game(name))
+adverture_game(name)
     
